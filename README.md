@@ -1,4 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 + Tailwind CSS Minimal Starter
+
+This is a simple ready to build with starter using the tools I use regularly anytime I want to build a Nuxt project. Avoid having to reconfigure everytime. 
+
+Currently set up with:
+- Nuxt 3
+- TailWind CSS (including Typography and forms)
+- Vitest
+- SASS
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
